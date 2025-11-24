@@ -348,3 +348,15 @@ body::before {
   text-align: center;
   border-top: 1px solid var(--border-color);
 }
+<ol>
+    <li>arroz</li>
+    <li>aguacate</li>
+    <li>caldo</li>
+</ol>
+<ul>
+    <li>boxeo</li>
+    <li>jiujitsu</li>
+    <li>mma</li>
+</ul>
+</body>
+</html>
